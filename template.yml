@@ -4,7 +4,7 @@ author: "CSA"
 category: category
 description: This is a sample description
 value: 100
-type: standard
+type: dynamic
 
 # use for type: dynamic
 # extra:
