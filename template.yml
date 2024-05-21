@@ -3,14 +3,13 @@ name: "{{cookiecutter.name}}"
 author: "CSA"
 category: category
 description: This is a sample description
+
 value: 100
 type: dynamic
-
-# use for type: dynamic
-# extra:
-#     initial: 500
-#     decay: 100
-#     minimum: 50
+extra:
+    initial: 500
+    decay: 100
+    minimum: 50
 
 # Optional settings
 # attempts: 5
