@@ -4,11 +4,11 @@ author: "CSA"
 category: category
 description: This is a sample description
 
-value: 100
+value: 200
 type: dynamic
 extra:
-    initial: 500
-    decay: 100
+    initial: 200
+    decay: 15
     minimum: 50
 
 # Optional settings
