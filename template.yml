@@ -2,7 +2,7 @@
 name: "{{cookiecutter.name}}"
 author: "CSA"
 category: category
-description: This is a sample description
+description: "This is a sample description\nLink: This is the link"
 
 value: 200
 type: dynamic
