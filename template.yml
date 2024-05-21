@@ -1,5 +1,6 @@
 # Required sections
 name: "{{cookiecutter.name}}"
+author: "CSA"
 category: category
 description: This is a sample description
 value: 100
