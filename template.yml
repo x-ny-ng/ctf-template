@@ -23,9 +23,6 @@ flags:
 tags:
     - ✰✰✰
 
-files:
-    - dist/source.py
-
 hints:
     - {
         content: "This hint costs points",
