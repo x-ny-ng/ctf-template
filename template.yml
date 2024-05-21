@@ -26,9 +26,13 @@ tags:
 hints:
     - {
         content: "This hint costs points",
-        cost: 10
+        cost: 15
     }
-    - This hint is free
+    - {
+        content: "This hint costs points",
+        cost: 15
+    }
+
 
 requirements:
     - "Warmup"
