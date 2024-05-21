@@ -32,7 +32,6 @@ hints:
 
 requirements:
     - "Warmup"
-    - "Are you alive"
 
 state: hidden
 
