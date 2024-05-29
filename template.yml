@@ -7,31 +7,27 @@ description: "This is a sample description\nLink: This is the link"
 value: 200
 type: dynamic
 extra:
-    initial: 200
-    decay: 15
-    minimum: 50
+  initial: 200
+  decay: 15
+  minimum: 50
 
 # Optional settings
 # attempts: 5
 flags:
-    # A static case sensitive flag
-    - flag{3xampl3}
+  # A static case sensitive flag
+  - flag{3xampl3}
 
 # Tags are used to provide additional public tagging to a challenge
 # Can be removed if unused
 # Accepts strings
 tags:
-    - ✰✰✰
+  - ✰✰✰
 
 hints:
-    - {
-        content: "This hint costs points",
-        cost: 15
-    }
-    - {
-        content: "This hint costs points",
-        cost: 15
-    }
+  - content: "This hint costs points"
+    cost: 15
+  - content: "This hint costs points"
+    cost: 15
 
 
 requirements:
