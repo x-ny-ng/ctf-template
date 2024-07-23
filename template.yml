@@ -1,6 +1,6 @@
 # Required sections
 name: "{{cookiecutter.name}}"
-author: "CSA"
+author: ""
 category: category
 description: "This is a sample description\nLink: This is the link"
 
